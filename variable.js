@@ -4,7 +4,8 @@ var accountPassword ="shweta@234"
 
 accountCity="jaipur"
 
-// accountId=2 //not allowded
+// accountId=2 
+//not allowded
 
 accountEmail="hc@hc.com"
 accountPassword="2121212121"
@@ -14,8 +15,10 @@ accountCity="Bengluru"
 console.log(accountId);
 console.table([accountId, accountEmail,accountPassword,accountCity,accountState])
 
+
 /*
-Prefer not to use var 
+
+Prefer not to use var
 becoz of issue in functional scope
 
 */
